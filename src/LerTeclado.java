@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class LerTeclado {
     public static void main(String[] args) {
         
-        //declar a variavel "ler" que é do tipo Scanner
+        //declara a variavel "ler" que é do tipo Scanner
         Scanner ler = new Scanner(System.in);
         
         int n;
@@ -17,8 +17,9 @@ public class LerTeclado {
         m = ler.nextDouble();
         System.out.println("Voce digitou: "+m);
         
-        m=Math.pow(3, 3);
-        System.out.println("3^3: "+m);
+        //exemplo com operação matemática: 3 elevado ao quadrado
+        m=Math.pow(3, 2);
+        System.out.println("3^2: "+m);
         
     }        
 }
