@@ -1,4 +1,3 @@
-
 public class RepeticaoWhile {
     public static void main(String[] args) {
         
@@ -27,6 +26,5 @@ public class RepeticaoWhile {
             System.out.println(x);
             x++;
         }
-        
     }
 }
