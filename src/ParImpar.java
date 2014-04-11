@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class ParImpar {
@@ -12,10 +11,10 @@ public class ParImpar {
         n=ler.nextDouble();
         
         if (n%2==0) {
-            System.out.println("Eh par");
+            System.out.println("É par");
         }
         else {
-            System.out.println("Eh impar");
+            System.out.println("É impar");
         }
     }
 }
