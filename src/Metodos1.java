@@ -1,3 +1,5 @@
+//Método sem parâmetro e sem retorno
+
 import javax.swing.JOptionPane;
 
 public class Metodos1 {
