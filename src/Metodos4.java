@@ -19,9 +19,10 @@ public class Metodos4 {
     } 
     
     
-    //inicio do método soma(n1, n2)
-    public static int soma(int n1, int n2){              
-       return (n1+n2);         
-    }
-    //fim do método soma() 
+    //inicio do método "soma"
+    public static int soma(int n1, int n2){
+        int r;
+        r=n1+n2;
+        return r;         
+    } //fim do método soma 
 }
